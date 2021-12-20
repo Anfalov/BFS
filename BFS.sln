@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BFS", "BFS\BFS.pyproj", "{B8E3CFB9-14D4-4D98-A417-8C0D6CB44EBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8E3CFB9-14D4-4D98-A417-8C0D6CB44EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E3CFB9-14D4-4D98-A417-8C0D6CB44EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D953E8C-FD75-4A62-8AE3-FA400678405B}
+	EndGlobalSection
+EndGlobal
