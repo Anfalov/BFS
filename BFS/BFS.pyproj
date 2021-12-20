@@ -22,6 +22,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="BFS standart algorithm.py" />
+    <Compile Include="Optimized wave algorithm.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Wave algortihm.py">
       <SubType>Code</SubType>
     </Compile>
